@@ -1,0 +1,29 @@
+{
+  "name": "mean-angular-2",
+  "version": "1.0.0",
+  "description": "Mean stack angualar2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamtr/Mean-angular-2.git"
+  },
+  "keywords": [
+    "Mean",
+    "stack"
+  ],
+  "author": "PVTruong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamtr/Mean-angular-2/issues"
+  },
+  "homepage": "https://github.com/phamtr/Mean-angular-2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
